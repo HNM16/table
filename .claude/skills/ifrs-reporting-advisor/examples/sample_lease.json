@@ -1,0 +1,16 @@
+{
+  "lease": {
+    "description": "HQ Office Lease - 5 year term",
+    "payment_amount": 10000,
+    "num_payments": 60,
+    "periods_per_year": 12,
+    "payment_timing": "arrears",
+    "annual_discount_rate": 0.06,
+    "payment_escalation_rate": 0.02,
+    "escalation_every_periods": 12
+  },
+  "initial_direct_costs": 5000,
+  "prepayments": 0,
+  "lease_incentives": 20000,
+  "restoration_costs": 15000
+}
